@@ -25,9 +25,50 @@ The Iris dataset comprises 150 samples from three species of Iris flowers, with 
 
 **Based on the report :**
 
+1. Line Plot:
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/plot.png">
+</p>
 
 
+2. Scatter Plot:
 
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/scatter.png">
+</p>
+
+
+3. Histogram:
+
+<p align="center">
+  <img width="650" height="450" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/hist.png">
+</p>
+
+
+4. Bar Plot:
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/bar%20plot.png">
+</p>
+
+5. Pie Chart:
+
+<p align="center">
+  <img width="500" height="400" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/pie%20.png">
+</p>
+
+6. Box Plot:
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/box%20plot.png">
+</p>
+
+7. Pair Plot:
+
+<p align="center">
+  <img width="800" height="700" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/pairplot.png">
+</p>
 
 
 
