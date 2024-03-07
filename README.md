@@ -70,5 +70,13 @@ The Iris dataset comprises 150 samples from three species of Iris flowers, with 
   <img width="800" height="700" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/pairplot.png">
 </p>
 
+**Conclusion:**
 
+In summary, the analysis of the Iris Flowers dataset revealed distinct patterns in petal and sepal dimensions across three species: setosa, versicolor, and virginica. Visualizations highlighted these differences, and machine learning models accurately classified species based on these features. While the analysis offers valuable insights, future research could explore larger datasets and incorporate additional factors for more robust classification.
+
+
+## Created By
+
+- [@ArpitaHaldar](https://github.com/ArpitaHaldar)
+- Arpita Haldar - Data Analyst
 
