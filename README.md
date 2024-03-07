@@ -1,11 +1,11 @@
 # Iris-Flowers-Data-Analysis
 
-**Introduction :**
+## Introduction :
 
 The Iris dataset comprises 150 samples from three species of Iris flowers, with four measured features: sepal length, sepal width, petal length, and petal width. It's widely used for practicing data analytics and machine learning algorithms due to its compact size and rich features. These features can be analyzed to classify Iris species or extract insights using database data analytics techniques.
 
 
-**This project includes :**
+## This project includes :
 
 1. Data Understanding,
 2. Data Processing,
@@ -13,7 +13,7 @@ The Iris dataset comprises 150 samples from three species of Iris flowers, with 
 4. Data Visualization.
 
 
-**This projest answer this questions :**
+## **This projest answer this questions :**
 
 1. Line Plot: Plot a line graph showing the sepal length of the three species of Iris flowers. Use different colors to represent each species.
 2. Scatter Plot: Create a scatter plot showing the relationship between the petal length and petal width. Use different colors to represent each species.
@@ -23,54 +23,54 @@ The Iris dataset comprises 150 samples from three species of Iris flowers, with 
 6. Box Plot: Create a box plot showing the distribution of sepal length for each species.
 
 
-**Based on the report :**
+## Based on the report :
 
-1. Line Plot:
+**1. Line Plot:**
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/plot.png">
+  <img width="600" height="450" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/plot.png">
 </p>
 
 
-2. Scatter Plot:
+**2. Scatter Plot:**
 
 <p align="center">
   <img width="600" height="400" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/scatter.png">
 </p>
 
 
-3. Histogram:
+**3. Histogram:**
 
 <p align="center">
   <img width="650" height="450" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/hist.png">
 </p>
 
 
-4. Bar Plot:
+**4. Bar Plot:**
 
 <p align="center">
   <img width="600" height="400" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/bar%20plot.png">
 </p>
 
-5. Pie Chart:
+**5. Pie Chart:**
 
 <p align="center">
-  <img width="500" height="400" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/pie%20.png">
+  <img width="500" height="350" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/pie%20.png">
 </p>
 
-6. Box Plot:
+**6. Box Plot:**
 
 <p align="center">
   <img width="600" height="400" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/box%20plot.png">
 </p>
 
-7. Pair Plot:
+**7. Pair Plot:**
 
 <p align="center">
   <img width="800" height="700" src="https://github.com/ArpitaHaldar/Iris-Flowers-Data-Analysis/blob/main/Graph/pairplot.png">
 </p>
 
-**Conclusion:**
+## Conclusion:
 
 In summary, the analysis of the Iris Flowers dataset revealed distinct patterns in petal and sepal dimensions across three species: setosa, versicolor, and virginica. Visualizations highlighted these differences, and machine learning models accurately classified species based on these features. While the analysis offers valuable insights, future research could explore larger datasets and incorporate additional factors for more robust classification.
 
